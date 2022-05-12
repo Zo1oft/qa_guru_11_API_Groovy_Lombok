@@ -9,11 +9,25 @@ repositories {
 }
 
 def
-        restAssured = "4.4.0",
+        restAssured = "4.5.1",
         junitVersion = "5.8.2",
-        selenideVersion = "6.3.4",
+        selenideVersion = "6.3.5",
         slf4jVersion = "1.7.32",
         allureVersion = "2.17.3"
+
+allure {
+    adapter {
+        aspectjWeaver.set(true)
+        frameworks {
+            junit5 {
+                adapterVersion.set(allureVersion)
+            }
+        }
+    }
+    report {
+        version.set(allureVersion)
+    }
+}
 
 
 
