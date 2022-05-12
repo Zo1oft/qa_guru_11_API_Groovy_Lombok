@@ -1,5 +1,6 @@
 package tests;
 
+import io.qameta.allure.restassured.AllureRestAssured;
 import io.restassured.RestAssured;
 import lombok.Data;
 import org.hamcrest.Matchers;
@@ -73,6 +74,7 @@ public class ApiTests {
     @BeforeAll
     static void setUp() {
         RestAssured.baseURI = "https://reqres.in/";
+        RestAssured.filters(new AllureRestAssured());
     }
     @Test
     @DisplayName("Проверка работоспособности 404 страницы")
