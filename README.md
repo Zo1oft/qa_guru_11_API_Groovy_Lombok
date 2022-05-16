@@ -38,14 +38,14 @@
 ## :point_up_2: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/11-Zoloft-Api-tests/">Сборка в Jenkins</a>
 <p align="center">
-<img title="Jenkins Dashboard" src="images/Screenshots/jenkins.png">
+<img title="Jenkins Dashboard" src="images/Screenshots/Jenkins.png">
 </p>
 
 
 ## :point_up_2: Allure отчет
 - ### Главный экран отчета
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/Screenshots/allure.png">
+<img title="Allure Overview Dashboard" src="images/Screenshots/Allure.png">
 </p>
 
 - ### Страница с проведенными тестами
@@ -56,12 +56,12 @@
 ## :point_up_2: Интеграция с Allure TestOps
 - ### Экран с результатами запуска тестов
 <p align="center">
-<img title="TestOps Launch Page" src="images/Screenshots/allure-test-ops.png">
+<img title="TestOps Launch Page" src="images/Screenshots/Allure-test-ops.png">
 </p>
 
 - ### Страница с тестами в TestOps
 <p align="center">
-<img title="TestOps tests page" src="images/Screenshots/allure-test-ops-cases.png">
+<img title="TestOps tests page" src="images/Screenshots/Allure-test-ops-cases.png">
 </p>
 
 ## :point_up_2: Отчет в Telegram
