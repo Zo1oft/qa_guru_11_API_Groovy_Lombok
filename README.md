@@ -1,4 +1,4 @@
-# Проект API автоматизации для сайта reqres.in
+# Проект API автоматизации для сайта <a href="https://reqres.in/">reqres.in</a>
 
 ## :point_up: Структура:
 
@@ -38,33 +38,33 @@
 ## :point_up_2: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/11-Zoloft-Api-tests/">Сборка в Jenkins</a>
 <p align="center">
-<img title="Jenkins Dashboard" src="images/screenshots/jenkins.png">
+<img title="Jenkins Dashboard" src="images/Screenshots/jenkins.png">
 </p>
 
 
 ## :point_up_2: Allure отчет
 - ### Главный экран отчета
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screenshots/allure.png">
+<img title="Allure Overview Dashboard" src="images/Screenshots/allure.png">
 </p>
 
 - ### Страница с проведенными тестами
 <p align="center">
-<img title="Allure Test Page" src="images/screenshots/Allure-suites.png">
+<img title="Allure Test Page" src="images/Screenshots/Allure-suites.png">
 </p>
 
 ## :point_up_2: Интеграция с Allure TestOps
 - ### Экран с результатами запуска тестов
 <p align="center">
-<img title="TestOps Launch Page" src="images/screenshots/allure-test-ops.png">
+<img title="TestOps Launch Page" src="images/Screenshots/allure-test-ops.png">
 </p>
 
 - ### Страница с тестами в TestOps
 <p align="center">
-<img title="TestOps tests page" src="images/screenshots/allure-test-ops-cases.png">
+<img title="TestOps tests page" src="images/Screenshots/allure-test-ops-cases.png">
 </p>
 
 ## :point_up_2: Отчет в Telegram
 <p align="center">
-<img title="Telegram notification message" src="images/screenshots/Telegram.jpg">
+<img title="Telegram notification message" src="images/Screenshots/Telegram.jpg">
 </p>
